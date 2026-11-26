@@ -181,3 +181,4 @@ def vitri(day_so:list,k:int)->int:
 assert vitri([1,2,3,4,5],3)==2
 assert vitri([1,2,3,4,5,6],7)==-1
 print('Accepted') 
+#
